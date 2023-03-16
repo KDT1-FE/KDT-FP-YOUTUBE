@@ -1,0 +1,38 @@
+.videoContainer {
+  padding: 4rem 40px;
+  margin: 0 auto;
+  cursor: pointer;
+  color: var(--color-font);
+}
+
+.videoLists {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(5, 1fr);
+  list-style: none;
+  padding: 0;
+}
+
+@media (max-width: 1690px) {
+  .videoLists {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 1440px) {
+  .videoLists {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 1080px) {
+  .videoLists {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 710px) {
+  .videoLists {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

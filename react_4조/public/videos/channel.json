@@ -1,0 +1,54 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "9n43WsR5INU6t5GniZ-Yhwp-x0A",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "fSpCdc_rVKel6jcBglzBfU3PEhc",
+      "id": "UCPD_bxCRGpmmeQcbe2kpPaA",
+      "snippet": {
+        "title": "First We Feast",
+        "description": "HOT ONES\nFor every question that they field from host Sean Evans, guests must join him in eating a progressively spicy chicken wing.\n\nTACOS CON TODO\nStand-up comedian Jesus Trejo interviews the world’s funniest comedians while searching for the best tacos in SoCal.\n\nPIZZA WARS\nPizzaiola Nicole Russell of Last Dragon Pizza will go head-to-head with the city’s most respected chefs and Internet personalities, competing in a new pizza-themed competition each week.\n\nTHE BURGER SHOW\nThe Burger Show explores modern burger culture through the eyes of chef Alvin Cailan.\n\nBURGER SCHOLAR SESSIONS\nBurger Scholar George Motz gives a master class on regional burger styles, teaching viewers essential techniques and burger history.\n\nSNACKED\nCelebrities break down their favorite snacks that are near and dear to their hearts.\n",
+        "customUrl": "@firstwefeast",
+        "publishedAt": "2014-02-28T21:48:23Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJVMl6GY6PAqdc-ksZ21QA-kNUVP0UNwzQPodaQsag=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJVMl6GY6PAqdc-ksZ21QA-kNUVP0UNwzQPodaQsag=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJVMl6GY6PAqdc-ksZ21QA-kNUVP0UNwzQPodaQsag=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "First We Feast",
+          "description": "HOT ONES\nFor every question that they field from host Sean Evans, guests must join him in eating a progressively spicy chicken wing.\n\nTACOS CON TODO\nStand-up comedian Jesus Trejo interviews the world’s funniest comedians while searching for the best tacos in SoCal.\n\nPIZZA WARS\nPizzaiola Nicole Russell of Last Dragon Pizza will go head-to-head with the city’s most respected chefs and Internet personalities, competing in a new pizza-themed competition each week.\n\nTHE BURGER SHOW\nThe Burger Show explores modern burger culture through the eyes of chef Alvin Cailan.\n\nBURGER SCHOLAR SESSIONS\nBurger Scholar George Motz gives a master class on regional burger styles, teaching viewers essential techniques and burger history.\n\nSNACKED\nCelebrities break down their favorite snacks that are near and dear to their hearts.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUPD_bxCRGpmmeQcbe2kpPaA"
+        }
+      },
+      "statistics": {
+        "viewCount": "2727631245",
+        "subscriberCount": "12100000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "930"
+      }
+    }
+  ]
+}

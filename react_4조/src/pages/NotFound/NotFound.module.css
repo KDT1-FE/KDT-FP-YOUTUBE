@@ -1,0 +1,45 @@
+.container{
+  display: flex;
+  height: calc(100vh - 64px);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: 100;
+  color: white;
+}
+
+.image{
+  width: 120px;
+  height: 120px;
+}
+
+.mainDiv{
+  font-size: 24px;
+  font-weight: 400;
+  margin: 18px 0 17px;
+  color : var(--color-font);
+}
+
+.subDiv{
+  font-size : 14px;
+  font-weight: 400;
+  margin-bottom: 26px;
+  color : var(--color-font);
+}
+
+
+.refreshBtn{
+  width: 90px;
+  box-sizing: border-box;
+  border: 1px solid var(--color-main-border);
+  text-align: center;
+  border-radius: 30px;
+  color : #3ea6ff;
+  padding: 7.3px;
+  font-size: 14px;
+}
+
+.refreshBtn:hover{
+  background-color: var(--color-bg-main);
+  cursor: pointer;
+}

@@ -1,0 +1,1749 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "jfmBIzjwl8-9lVtHpxBBwOmWBMU",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "pSfOTXXoECXO3CSJL3Otoufv1jk",
+      "id": "kpGo2_d3oYE",
+      "snippet": {
+        "publishedAt": "2023-03-13T00:59:01Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "The Little Mermaid | Official Trailer",
+        "description": "Watch and you'll see, some day I'll be, part of your world! Watch the new trailer for #TheLittleMermaid and see the movie in theaters May 26!\n\nThe brand new soundtrack for Disney’s “The Little Mermaid” is available now to Pre-Save, Pre-Add or Pre-Order – https://presave.umusic.com/thelittlemermaidsoundtrack\n\n“The Little Mermaid” is the beloved story of Ariel, a beautiful and spirited young mermaid with a thirst for adventure. The youngest of King Triton’s daughters and the most defiant, Ariel longs to find out more about the world beyond the sea and, while visiting the surface, falls for the dashing Prince Eric. While mermaids are forbidden to interact with humans, Ariel must follow her heart. She makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land but ultimately places her life – and her father’s crown – in jeopardy. The film stars singer and actress Halle Bailey (“grown-ish”) as Ariel; Jonah Hauer-King (“A Dog’s Way Home”) as Prince Eric; Tony Award® winner Daveed Diggs (“Hamilton”) as the voice of Sebastian; Awkwafina (“Raya and the Last Dragon”) as the voice of Scuttle; Jacob Tremblay (“Luca”) as the voice of Flounder; Noma Dumezweni (“Mary Poppins Returns”) as Queen Selina; Art Malik (“Homeland”) as Sir Grimsby; with Oscar® winner Javier Bardem (“No Country for Old Men”) as King Triton; and two-time Academy Award® nominee Melissa McCarthy (“Can You Ever Forgive Me?” “Bridesmaids”) as Ursula.      \n \n“The Little Mermaid” is directed by Oscar® nominee Rob Marshall (“Chicago,” “Mary Poppins Returns”) with a screenplay by two-time Oscar nominee David Magee (“Life of Pi,” “Finding Neverland”). The songs feature music from multiple Academy Award® winner Alan Menken (“Beauty and the Beast,” “Aladdin”) and lyrics by Howard Ashman, and new lyrics by three-time Tony Award® winner Lin-Manuel Miranda. The film is produced by two-time Emmy® winner Marc Platt (“Jesus Christ Superstar Live in Concert,” “Grease Live!”), Miranda, two-time Emmy winner John DeLuca (“Tony Bennett: An American Classic”), and Rob Marshall, with Jeffrey Silver (“The Lion King”) serving as executive producer. \n\nHashtag: #TheLittleMermaid\nTwitter: https://twitter.com/littlemermaid\nFacebook: https://www.facebook.com/DisneyTheLittleMermaid\nInstagram: https://www.instagram.com/disneylittlemermaid/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "tags": [
+          "the little mermaid",
+          "halle bailey",
+          "disney",
+          "ursula",
+          "scuttle",
+          "movie",
+          "trailer",
+          "prince Eric",
+          "Melissa McCarthy",
+          "part of your world",
+          "under the sea",
+          "poor unfortunate souls"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Little Mermaid | Official Trailer",
+          "description": "Watch and you'll see, some day I'll be, part of your world! Watch the new trailer for #TheLittleMermaid and see the movie in theaters May 26!\n\nThe brand new soundtrack for Disney’s “The Little Mermaid” is available now to Pre-Save, Pre-Add or Pre-Order – https://presave.umusic.com/thelittlemermaidsoundtrack\n\n“The Little Mermaid” is the beloved story of Ariel, a beautiful and spirited young mermaid with a thirst for adventure. The youngest of King Triton’s daughters and the most defiant, Ariel longs to find out more about the world beyond the sea and, while visiting the surface, falls for the dashing Prince Eric. While mermaids are forbidden to interact with humans, Ariel must follow her heart. She makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land but ultimately places her life – and her father’s crown – in jeopardy. The film stars singer and actress Halle Bailey (“grown-ish”) as Ariel; Jonah Hauer-King (“A Dog’s Way Home”) as Prince Eric; Tony Award® winner Daveed Diggs (“Hamilton”) as the voice of Sebastian; Awkwafina (“Raya and the Last Dragon”) as the voice of Scuttle; Jacob Tremblay (“Luca”) as the voice of Flounder; Noma Dumezweni (“Mary Poppins Returns”) as Queen Selina; Art Malik (“Homeland”) as Sir Grimsby; with Oscar® winner Javier Bardem (“No Country for Old Men”) as King Triton; and two-time Academy Award® nominee Melissa McCarthy (“Can You Ever Forgive Me?” “Bridesmaids”) as Ursula.      \n \n“The Little Mermaid” is directed by Oscar® nominee Rob Marshall (“Chicago,” “Mary Poppins Returns”) with a screenplay by two-time Oscar nominee David Magee (“Life of Pi,” “Finding Neverland”). The songs feature music from multiple Academy Award® winner Alan Menken (“Beauty and the Beast,” “Aladdin”) and lyrics by Howard Ashman, and new lyrics by three-time Tony Award® winner Lin-Manuel Miranda. The film is produced by two-time Emmy® winner Marc Platt (“Jesus Christ Superstar Live in Concert,” “Grease Live!”), Miranda, two-time Emmy winner John DeLuca (“Tony Bennett: An American Classic”), and Rob Marshall, with Jeffrey Silver (“The Lion King”) serving as executive producer. \n\nHashtag: #TheLittleMermaid\nTwitter: https://twitter.com/littlemermaid\nFacebook: https://www.facebook.com/DisneyTheLittleMermaid\nInstagram: https://www.instagram.com/disneylittlemermaid/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "5720963",
+        "likeCount": "94536",
+        "favoriteCount": "0",
+        "commentCount": "18234"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8dDrj657wWoBqUG_udXpccztyfE",
+      "id": "fgMqIlgXlyI",
+      "snippet": {
+        "publishedAt": "2023-03-12T17:07:31Z",
+        "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
+        "title": "WORST jumpscare in YEARS [Fears To Fathom: Carson House]",
+        "description": "WELCOME, back to Fears To Fathom! This time we tackle Chapter 3 of the episodic horror: Carson House.\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nGame: https://store.steampowered.com/app/2120900/Fears_to_Fathom__Carson_House/#:~:text=In%20the%20third%20episode%20of,going%20on%20for%20that%20weekend.\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin #fearstofathom",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CoryxKenshin",
+        "tags": [
+          "fears to fathom carson house",
+          "fears to fathom",
+          "fears",
+          "to",
+          "fathom",
+          "chapter 3",
+          "gameplay",
+          "game",
+          "playthrough",
+          "walkthrough",
+          "cara",
+          "jumpscare",
+          "worse",
+          "in",
+          "years",
+          "coryxkenshin",
+          "cory",
+          "kenshin",
+          "scary",
+          "reaction"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "WORST jumpscare in YEARS [Fears To Fathom: Carson House]",
+          "description": "WELCOME, back to Fears To Fathom! This time we tackle Chapter 3 of the episodic horror: Carson House.\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nGame: https://store.steampowered.com/app/2120900/Fears_to_Fathom__Carson_House/#:~:text=In%20the%20third%20episode%20of,going%20on%20for%20that%20weekend.\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin #fearstofathom"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "3284769",
+        "likeCount": "283378",
+        "favoriteCount": "0",
+        "commentCount": "25211"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qOrlnN9imnIwT4rJWwfGpuThAaU",
+      "id": "NJnWB8UX3rs",
+      "snippet": {
+        "publishedAt": "2023-03-13T03:41:31Z",
+        "channelId": "UC_IpSl6O_-IRAA6fiNs05Gg",
+        "title": "Brendan Fraser Accepts the Oscar for Lead Actor",
+        "description": "Watch Brendan Fraser's Oscar 2023 acceptance speech for Actor in a Leading Role for his portrayal of Charlie in THE WHALE. See more Oscar acceptance speeches and highlights on Oscar.com and in the ABC app!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABC",
+        "tags": [
+          "achievement",
+          "glamour",
+          "glitz",
+          "prestige",
+          "stars",
+          "winners2023",
+          "Brendan Fraser",
+          "Oscars"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Brendan Fraser Accepts the Oscar for Lead Actor",
+          "description": "Watch Brendan Fraser's Oscar 2023 acceptance speech for Actor in a Leading Role for his portrayal of Charlie in THE WHALE. See more Oscar acceptance speeches and highlights on Oscar.com and in the ABC app!"
+        }
+      },
+      "statistics": {
+        "viewCount": "1669878",
+        "likeCount": "30464",
+        "favoriteCount": "0",
+        "commentCount": "3982"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OOOFyIz9mtiN1CVFGE6BonwRPLY",
+      "id": "X2LyUpsd8uY",
+      "snippet": {
+        "publishedAt": "2023-03-12T21:15:23Z",
+        "channelId": "UCo_IB5145EVNcf8hw1Kku7w",
+        "title": "Game Theory: FNAF, BURN Them All (Ultimate Timeline)",
+        "description": "Special thanks to Air Up for sponsoring this episode! \nScore your free Favorite Five Variety Pack with each starter set order w/ code “FREEFAV5” ► https://airup.link/game_theorists\n\nLoyal Theorists, today we return with part 3 of our FNAF Ultimate Timeline! After covering the rise of William Afton and his descent into madness a few weeks ago today we're moving forward a bit in the timeline, talking about Sister Location to FNAF 6. There is SO much happening in this \"Modern Era\" of FNAF and I can't wait to share it all with you! So bust out the EXOTIC Butters and settle in!\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://theorywear.com/\nDive into the Reddit! ► https://www.reddit.com/r/GameTheorists/\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► http://share.epidemicsound.com/MatPat\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nFNAF, The Rise Of Afton ►► https://youtu.be/oLj9qS9EgB8\nFNAF, The Ultimate Timeline ►► https://youtu.be/gWOXSh4-Iuc\nFNAF, Origins Of Evil ►► https://youtu.be/ZfomNvIEX74\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*SUBSCRIBE to Game Theory!*\nhttps://www.youtube.com/@GameTheory/?sub_confirmation=1\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n​🎥  @FilmTheory \n🍔  @FoodTheory \n👔  @StyleTheorists   \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan \"Cybert\" Seibert, Warak, Pedro Freitas, Dom Sealion, Tyler Mascola, and JayskiBean\nSound Designer: Yosi Berman \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#FNAF #FiveNightsAtFreddys #FNAFTimeline #FNAFUltimateTimeline #SecurityBreach #FNAFSB #FNAFLore #FNAFTheory #Theory #GameTheory #Matpat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Game Theorists",
+        "tags": [
+          "fnaf",
+          "five nights at freddys",
+          "fnaf timeline",
+          "matpat fnaf timeline",
+          "five nights at freddys timeline",
+          "fnaf security breach",
+          "fnaf sb",
+          "ruin dlc",
+          "fnaf ruin dlc",
+          "security breach solved",
+          "fnaf lore",
+          "fnaf theory",
+          "five nights at freddy's",
+          "fnaf timeline solved",
+          "five nights at freddys solved",
+          "fnaf character encyclopedia",
+          "fnaf movie",
+          "fnaf trailer",
+          "fnaf full timeline",
+          "fnaf secrets",
+          "matpat fnaf",
+          "game theory fnaf",
+          "matpat",
+          "game theorist",
+          "game theory",
+          "afton",
+          "purple guy",
+          "freddy",
+          "William Afton"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Game Theory: FNAF, BURN Them All (Ultimate Timeline)",
+          "description": "Special thanks to Air Up for sponsoring this episode! \nScore your free Favorite Five Variety Pack with each starter set order w/ code “FREEFAV5” ► https://airup.link/game_theorists\n\nLoyal Theorists, today we return with part 3 of our FNAF Ultimate Timeline! After covering the rise of William Afton and his descent into madness a few weeks ago today we're moving forward a bit in the timeline, talking about Sister Location to FNAF 6. There is SO much happening in this \"Modern Era\" of FNAF and I can't wait to share it all with you! So bust out the EXOTIC Butters and settle in!\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://theorywear.com/\nDive into the Reddit! ► https://www.reddit.com/r/GameTheorists/\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► http://share.epidemicsound.com/MatPat\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nFNAF, The Rise Of Afton ►► https://youtu.be/oLj9qS9EgB8\nFNAF, The Ultimate Timeline ►► https://youtu.be/gWOXSh4-Iuc\nFNAF, Origins Of Evil ►► https://youtu.be/ZfomNvIEX74\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*SUBSCRIBE to Game Theory!*\nhttps://www.youtube.com/@GameTheory/?sub_confirmation=1\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n​🎥  @FilmTheory \n🍔  @FoodTheory \n👔  @StyleTheorists   \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan \"Cybert\" Seibert, Warak, Pedro Freitas, Dom Sealion, Tyler Mascola, and JayskiBean\nSound Designer: Yosi Berman \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#FNAF #FiveNightsAtFreddys #FNAFTimeline #FNAFUltimateTimeline #SecurityBreach #FNAFSB #FNAFLore #FNAFTheory #Theory #GameTheory #Matpat"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "3169343",
+        "likeCount": "223515",
+        "favoriteCount": "0",
+        "commentCount": "10723"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-WT9CcQoyz4AFnIgf8mqZcYIBXE",
+      "id": "qwoyUpxjQ9c",
+      "snippet": {
+        "publishedAt": "2023-03-13T19:57:55Z",
+        "channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+        "title": "Lady Gaga - Hold My Hand (Live From The Oscars/2023)",
+        "description": "Listen to “Hold My Hand” (Music From The Motion Picture \"Top Gun: Maverick”): http://LadyGaga.lnk.to/HoldMyHand\n\nShop “Hold My Hand” official merch: https://shop.ladygaga.com/collections/top-gun\n\nFollow Lady Gaga:\nFacebook: https://ladygaga.lnk.to/facebook\nInstagram: https://ladygaga.lnk.to/instagram \nSnapchat: https://ladygaga.lnk.to/snapchat \nTwitter: https://ladygaga.lnk.to/twitter \nWebsite: http://www.ladygaga.com/\nOfficial Store: https://LadyGaga.lnk.to/OfficialStore \n\nFollow Top Gun:\nInstagram: https://www.instagram.com/topgunmovie/\nTwitter: https://twitter.com/topgunmovie\nFacebook: https://www.facebook.com/TopGunMovie/\nWebsite: https://www.topgunmovie.com/\n\nhttp://vevo.ly/sFiWGd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LadyGagaVEVO",
+        "tags": [
+          "lady gaga",
+          "hold my hand live",
+          "gaga Oscars",
+          "top gun maverick",
+          "lady gaga top gun"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lady Gaga - Hold My Hand (Live From The Oscars/2023)",
+          "description": "Listen to “Hold My Hand” (Music From The Motion Picture \"Top Gun: Maverick”): http://LadyGaga.lnk.to/HoldMyHand\n\nShop “Hold My Hand” official merch: https://shop.ladygaga.com/collections/top-gun\n\nFollow Lady Gaga:\nFacebook: https://ladygaga.lnk.to/facebook\nInstagram: https://ladygaga.lnk.to/instagram \nSnapchat: https://ladygaga.lnk.to/snapchat \nTwitter: https://ladygaga.lnk.to/twitter \nWebsite: http://www.ladygaga.com/\nOfficial Store: https://LadyGaga.lnk.to/OfficialStore \n\nFollow Top Gun:\nInstagram: https://www.instagram.com/topgunmovie/\nTwitter: https://twitter.com/topgunmovie\nFacebook: https://www.facebook.com/TopGunMovie/\nWebsite: https://www.topgunmovie.com/\n\nhttp://vevo.ly/sFiWGd"
+        }
+      },
+      "statistics": {
+        "viewCount": "588028",
+        "likeCount": "42360",
+        "favoriteCount": "0",
+        "commentCount": "3287"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZDNbfAnXcM5zQBDzSsS406pL7RQ",
+      "id": "9c21TWHY2rM",
+      "snippet": {
+        "publishedAt": "2023-03-13T08:27:31Z",
+        "channelId": "UCoLrcjPV5PbUrUyXq5mjc_A",
+        "title": "Mexico vs. USA Game Highlights | 2023 World Baseball Classic",
+        "description": "Mexico takes on the United States in big pool play game.\n\nDon't forget to subscribe! https://www.youtube.com/mlb\n\nFollow us elsewhere too:\nTwitter: https://twitter.com/MLB\nInstagram: https://www.instagram.com/mlb/\nFacebook: https://www.facebook.com/mlb\nTikTok: https://www.tiktok.com/share/user/6569247715560456198\n\nCheck out MLB.com daily to watch the MLB.TV Free Game of the Day! https://mlb.com/freegame\n\nVisit our site for all baseball news, stats and scores! https://www.mlb.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MLB",
+        "tags": [
+          "mlb",
+          "baseball",
+          "sports",
+          "mlb highlights",
+          "sports highlights",
+          "baseball highlights"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Mexico vs. USA Game Highlights | 2023 World Baseball Classic",
+          "description": "Mexico takes on the United States in big pool play game.\n\nDon't forget to subscribe! https://www.youtube.com/mlb\n\nFollow us elsewhere too:\nTwitter: https://twitter.com/MLB\nInstagram: https://www.instagram.com/mlb/\nFacebook: https://www.facebook.com/mlb\nTikTok: https://www.tiktok.com/share/user/6569247715560456198\n\nCheck out MLB.com daily to watch the MLB.TV Free Game of the Day! https://mlb.com/freegame\n\nVisit our site for all baseball news, stats and scores! https://www.mlb.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "998654",
+        "likeCount": "15204",
+        "favoriteCount": "0",
+        "commentCount": "1675"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qcOMYW_8ee75jks4p52PWtHc4vw",
+      "id": "0NZ6A-X6taA",
+      "snippet": {
+        "publishedAt": "2023-03-13T12:27:16Z",
+        "channelId": "UCcgqSM4YEo5vVQpqwN-MaNw",
+        "title": "Rihanna - Lift Me Up (Live from the Oscars 2023)",
+        "description": "Rihanna performing \"Lift Me Up\" live from the 95th Oscars\n\n► Stream / Download: \"Lift Me Up\": https://rihanna.lnk.to/liftmeup\n\n► Follow Rihanna\nInstagram: https://www.instagram.com/badgalriri\nTwitter: https://twitter.com/rihanna\nFacebook: https://www.facebook.com/rihanna\nYouTube @rihanna \nTikTok: https://www.tiktok.com/@rihanna\nWebsite: https://www.rihannanow.com\n\n► Follow Black Panther: Wakanda Forever \nInstagram: https://instagram.com/blackpanther \nTwitter: https://twitter.com/theblackpanther \nFacebook: https://www.facebook.com/BlackPanther\n\n#Rihanna #LiftMeUp #Oscars #TheAcademy #BlackPanther",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rihanna",
+        "tags": [
+          "rihanna",
+          "lift me up",
+          "live",
+          "live performance",
+          "the oscars",
+          "95th oscars",
+          "academy awards",
+          "oscar nominated",
+          "wakanda forever",
+          "black panther",
+          "rihanna lift me up",
+          "lift me up black panther",
+          "black panther soundtrack",
+          "lift me up live",
+          "live performance rihanna"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rihanna - Lift Me Up (Live from the Oscars 2023)",
+          "description": "Rihanna performing \"Lift Me Up\" live from the 95th Oscars\n\n► Stream / Download: \"Lift Me Up\": https://rihanna.lnk.to/liftmeup\n\n► Follow Rihanna\nInstagram: https://www.instagram.com/badgalriri\nTwitter: https://twitter.com/rihanna\nFacebook: https://www.facebook.com/rihanna\nYouTube @rihanna \nTikTok: https://www.tiktok.com/@rihanna\nWebsite: https://www.rihannanow.com\n\n► Follow Black Panther: Wakanda Forever \nInstagram: https://instagram.com/blackpanther \nTwitter: https://twitter.com/theblackpanther \nFacebook: https://www.facebook.com/BlackPanther\n\n#Rihanna #LiftMeUp #Oscars #TheAcademy #BlackPanther"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "609237",
+        "likeCount": "47695",
+        "favoriteCount": "0",
+        "commentCount": "2605"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GyooiNUhRGLFCYh5aWHgjbTz_tA",
+      "id": "uvbPC_3XY48",
+      "snippet": {
+        "publishedAt": "2023-03-13T02:22:47Z",
+        "channelId": "UC_IpSl6O_-IRAA6fiNs05Gg",
+        "title": "Lady Gaga Performs 'Hold My Hand' at Oscars 2023",
+        "description": "Lady Gaga performs the Oscar nominated original song 'Hold My Hand' from TOP GUN: MAVERICK at Oscars 2023. See more performance and highlights at Oscar.com and in the ABC app!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uvbPC_3XY48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uvbPC_3XY48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uvbPC_3XY48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uvbPC_3XY48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uvbPC_3XY48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABC",
+        "tags": [
+          "achievement",
+          "glamour",
+          "glitz",
+          "highlights2023",
+          "prestige",
+          "stars",
+          "Lady Gaga",
+          "Hold My Hand",
+          "Oscars"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lady Gaga Performs 'Hold My Hand' at Oscars 2023",
+          "description": "Lady Gaga performs the Oscar nominated original song 'Hold My Hand' from TOP GUN: MAVERICK at Oscars 2023. See more performance and highlights at Oscar.com and in the ABC app!"
+        }
+      },
+      "statistics": {
+        "viewCount": "1474363",
+        "likeCount": "18507",
+        "favoriteCount": "0",
+        "commentCount": "1907"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Kq3Gs_Iax8UD3XEs_lCgewFPjH0",
+      "id": "GoM-64EkchU",
+      "snippet": {
+        "publishedAt": "2023-03-13T02:48:00Z",
+        "channelId": "UCa6vGFO9ty8v5KZJXQxdhaw",
+        "title": "Jimmy Kimmel’s Oscars Monologue 2023",
+        "description": "Jimmy's opening monologue from the 95th Academy Awards. #Oscars",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GoM-64EkchU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GoM-64EkchU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GoM-64EkchU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GoM-64EkchU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GoM-64EkchU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jimmy Kimmel Live",
+        "tags": [
+          "jimmy",
+          "jimmy kimmel",
+          "jimmy kimmel live",
+          "late night",
+          "talk show",
+          "funny",
+          "comedic",
+          "comedy",
+          "clip",
+          "comedian",
+          "mean tweets",
+          "Academy Awards",
+          "Oscars",
+          "Oscars 2023",
+          "Jimmy Kimmel",
+          "Hosting",
+          "Movies",
+          "Monologue",
+          "Red Carpet",
+          "The Oscars",
+          "Jokes",
+          "Hollywood",
+          "Dolby Theater",
+          "Award Show",
+          "ABC"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jimmy Kimmel’s Oscars Monologue 2023",
+          "description": "Jimmy's opening monologue from the 95th Academy Awards. #Oscars"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "3792747",
+        "likeCount": "59012",
+        "favoriteCount": "0",
+        "commentCount": "4518"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d2EQpcVAQVPGp3q7-TiN-gJC0G4",
+      "id": "5CRD9pmqa7s",
+      "snippet": {
+        "publishedAt": "2023-03-12T17:46:23Z",
+        "channelId": "UCTSRIY3GLFYIpkR2QwyeklA",
+        "title": "I did a dopamine fast because the internet told me to",
+        "description": "Sponsored by HelloFresh. For 60% off HelloFresh + FREE shipping, use my code IMALITTLESTINKER60 at https://bit.ly/3lJCOJN\n\nthe app I talk about around the 18 minute mark is called ScreenZen (not screensin, which it sounds like is what I'm saying lol)\n\n00:00 - intro\n02:03 - phone box\n04:53 - dopamine fast\n11:22 - other wellness apps\n18:36 - dopamine slow\n26:22  - food box\n\ntransition song:\nStrfkr - Recess Time\n\nmerch:\r\nhttps://www.drewgoodenshop.com/\r\n\r\nfollow me:\r\ntwitter - https://www.twitter.com/drewisgooden\r\ninstagram - https://www.instagram.com/drewisgooden",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5CRD9pmqa7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5CRD9pmqa7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5CRD9pmqa7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5CRD9pmqa7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5CRD9pmqa7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Drew Gooden",
+        "tags": [
+          "drew gooden",
+          "comedy",
+          "commentary",
+          "reaction",
+          "vine",
+          "drew gooden vine",
+          "road work ahead guy",
+          "parody",
+          "rant",
+          "cringe",
+          "dopamine fast",
+          "wellness apps",
+          "opal",
+          "screenzen",
+          "twitter",
+          "shmoody",
+          "review",
+          "fitmind",
+          "rise sleep",
+          "inflow"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I did a dopamine fast because the internet told me to",
+          "description": "Sponsored by HelloFresh. For 60% off HelloFresh + FREE shipping, use my code IMALITTLESTINKER60 at https://bit.ly/3lJCOJN\n\nthe app I talk about around the 18 minute mark is called ScreenZen (not screensin, which it sounds like is what I'm saying lol)\n\n00:00 - intro\n02:03 - phone box\n04:53 - dopamine fast\n11:22 - other wellness apps\n18:36 - dopamine slow\n26:22  - food box\n\ntransition song:\nStrfkr - Recess Time\n\nmerch:\r\nhttps://www.drewgoodenshop.com/\r\n\r\nfollow me:\r\ntwitter - https://www.twitter.com/drewisgooden\r\ninstagram - https://www.instagram.com/drewisgooden"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1547007",
+        "likeCount": "129396",
+        "favoriteCount": "0",
+        "commentCount": "5401"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-nJVE8AOU6P_AqTl1jCCpk1_Zuc",
+      "id": "8Jgui5G8yGQ",
+      "snippet": {
+        "publishedAt": "2023-03-13T14:00:06Z",
+        "channelId": "UCE_--R1P5-kfBzHTca0dsnw",
+        "title": "IShowSpeed Goes Sneaker Shopping With Complex",
+        "description": "IShowSpeed goes Sneaker Shopping with Complex’s Joe La Puma at From The Sidewalk in Cincinnati to talk about getting Ronaldo’s cleats early, his thoughts on Ronaldo’s Air Maxes, why the Yeezy Foam Runners are his favorite shoe and more. \n\nLooking for the best deal on a pair of sneakers? Download the Sole Collector app now!: https://solecollector.com/app \n\nSOLE COLLECTOR APP SKU'S:\nNike Air Foamposite Pro \"Dr. Doom\": 624041 006\nNike Zoom HyperRev 2016 'Dark Grey White': 820224 014\nCR7 x Nike Air Max 97 'Golden Patchwork': aq0655 700\nAdidas Yeezy Foam RNNR: GX4472\nNike Air VaporMax 2019 'Moon Particle Multi-Color': CI9891-200\n\n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttps://www.twitch.tv/complex\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Complex",
+        "tags": [
+          "sneakerhead",
+          "complex",
+          "complex originals",
+          "sneakers",
+          "news",
+          "entertainment",
+          "complex media",
+          "complex networks",
+          "sneaker shopping",
+          "goat talk",
+          "hype news",
+          "pop culture",
+          "sneakers show",
+          "joe la puma",
+          "adiddas",
+          "nike",
+          "jordan",
+          "air jordan",
+          "sneaker review",
+          "new balance",
+          "FSR",
+          "Full Size Run",
+          "Brendan Dunne",
+          "KSI",
+          "nike air foamposite",
+          "foamposite dr doom",
+          "nike zoom hyperrev",
+          "air max 97 golden patchwork",
+          "air yeezy foam",
+          "nike foamposite yeezy",
+          "nike air vapormax moon particle",
+          "ishowspeed",
+          "ishowspeed world cup"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "IShowSpeed Goes Sneaker Shopping With Complex",
+          "description": "IShowSpeed goes Sneaker Shopping with Complex’s Joe La Puma at From The Sidewalk in Cincinnati to talk about getting Ronaldo’s cleats early, his thoughts on Ronaldo’s Air Maxes, why the Yeezy Foam Runners are his favorite shoe and more. \n\nLooking for the best deal on a pair of sneakers? Download the Sole Collector app now!: https://solecollector.com/app \n\nSOLE COLLECTOR APP SKU'S:\nNike Air Foamposite Pro \"Dr. Doom\": 624041 006\nNike Zoom HyperRev 2016 'Dark Grey White': 820224 014\nCR7 x Nike Air Max 97 'Golden Patchwork': aq0655 700\nAdidas Yeezy Foam RNNR: GX4472\nNike Air VaporMax 2019 'Moon Particle Multi-Color': CI9891-200\n\n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttps://www.twitch.tv/complex\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "959818",
+        "likeCount": "57927",
+        "favoriteCount": "0",
+        "commentCount": "2140"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2a_mWRg6AiVF3Y1feZ_2BBSPzVA",
+      "id": "5NDeOvfBuWA",
+      "snippet": {
+        "publishedAt": "2023-03-13T00:58:49Z",
+        "channelId": "UC_IpSl6O_-IRAA6fiNs05Gg",
+        "title": "Jamie Lee Curtis Accepts the Oscar for Supporting Actress",
+        "description": "Watch Jamie Lee Curtis's Oscar 2023 acceptance speech for Actress in a Supporting Role for her portrayal of Deirdre Beaubeirdre in EVERYTHING EVERYWHERE ALL AT ONCE. See more Oscar acceptance speeches and highlights on Oscar.com and in the ABC app!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NDeOvfBuWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NDeOvfBuWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NDeOvfBuWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5NDeOvfBuWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5NDeOvfBuWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABC",
+        "tags": [
+          "achievement",
+          "glamour",
+          "glitz",
+          "prestige",
+          "stars",
+          "winners2023",
+          "Jamie Lee Curtis",
+          "Oscar",
+          "EVERYTHING EVERYWHERE ALL AT ONCE"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jamie Lee Curtis Accepts the Oscar for Supporting Actress",
+          "description": "Watch Jamie Lee Curtis's Oscar 2023 acceptance speech for Actress in a Supporting Role for her portrayal of Deirdre Beaubeirdre in EVERYTHING EVERYWHERE ALL AT ONCE. See more Oscar acceptance speeches and highlights on Oscar.com and in the ABC app!"
+        }
+      },
+      "statistics": {
+        "viewCount": "1036908",
+        "likeCount": "14941",
+        "favoriteCount": "0",
+        "commentCount": "2703"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "P7JfFiw-9Y-Ua9_orL-9tYiT-d0",
+      "id": "zlTIextYnyQ",
+      "snippet": {
+        "publishedAt": "2023-03-13T08:59:10Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "KAI 카이 'Rover' MV",
+        "description": "KAI's 3rd mini album \"Rover\" is out!\nListen and download on your favorite platform: http://KAI.lnk.to/Rover\n\n[Tracklist]\n01 Rover\n02 Black Mirror\n03 Slidin’\n04 Bomba\n05 Say You Love Me\n06 Sinner\n\nKAI Official\nhttps://www.youtube.com/weareoneEXO\nhttps://www.youtube.com/KAIyoutube\nhttps://www.facebook.com/weareoneEXO\nhttps://www.instagram.com/weareone.exo\nhttps://twitter.com/weareoneEXO\nhttps://www.tiktok.com/@weareone.exo_official\n\n#KAI #카이 #Rover #KAI_Rover\n#EXO #엑소 #weareoneEXO\nKAI 카이 'Rover' MV ℗ SM Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zlTIextYnyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zlTIextYnyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zlTIextYnyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zlTIextYnyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zlTIextYnyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "tags": [
+          "kai",
+          "카이",
+          "rover",
+          "로버",
+          "3rd mini album",
+          "미니 3집",
+          "exo",
+          "엑소",
+          "we are one exo",
+          "뮤직비디오",
+          "music video",
+          "뮤비"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "KAI 카이 'Rover' MV",
+          "description": "KAI's 3rd mini album \"Rover\" is out!\nListen and download on your favorite platform: http://KAI.lnk.to/Rover\n\n[Tracklist]\n01 Rover\n02 Black Mirror\n03 Slidin’\n04 Bomba\n05 Say You Love Me\n06 Sinner\n\nKAI Official\nhttps://www.youtube.com/weareoneEXO\nhttps://www.youtube.com/KAIyoutube\nhttps://www.facebook.com/weareoneEXO\nhttps://www.instagram.com/weareone.exo\nhttps://twitter.com/weareoneEXO\nhttps://www.tiktok.com/@weareone.exo_official\n\n#KAI #카이 #Rover #KAI_Rover\n#EXO #엑소 #weareoneEXO\nKAI 카이 'Rover' MV ℗ SM Entertainment"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "statistics": {
+        "viewCount": "3967340",
+        "likeCount": "408190",
+        "favoriteCount": "0",
+        "commentCount": "65993"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7T-6gmr87_tSfwHBHSgI1l2-NSQ",
+      "id": "p0nY7_VVlDE",
+      "snippet": {
+        "publishedAt": "2023-03-13T16:00:26Z",
+        "channelId": "UCY6Ij8zOds0WJEeqCLOnqOQ",
+        "title": "Half Blood Prince...",
+        "description": "Download Match Masters here https://matchmaste.rs/hCkF/AlexMeyerss and get a free Piñata Pack!\n\n★☆★ Help Me Get to 4,000,000 Subscribers! http://bit.ly/1Iqsdaq\n\nCheck out my Podcast\nhttps://www.youtube.com/channel/UCBgm0clEVtGjgUKGHbMrqIw/\n\n★☆★Buy some Merch:  alexmeyers.teemill.com\n\n★☆★PLEASE SHARE THIS VIDEO!!\n\n★☆★PREVIOUS VIDEOS:\n\nhttps://www.youtube.com/playlist?list=PL-l4O2M4FfOuwH3TQaFvR-LJV-Sv7yakw\n\nThank you so much for 3,000,000 subscribers.  If you like what you see, please share these videos with your friends to show support!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0nY7_VVlDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0nY7_VVlDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0nY7_VVlDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p0nY7_VVlDE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p0nY7_VVlDE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Meyers",
+        "tags": [
+          "alex meyers",
+          "alex myers",
+          "alex mayers",
+          "harry potter",
+          "the half blood prince",
+          "fantastic beasts"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Half Blood Prince...",
+          "description": "Download Match Masters here https://matchmaste.rs/hCkF/AlexMeyerss and get a free Piñata Pack!\n\n★☆★ Help Me Get to 4,000,000 Subscribers! http://bit.ly/1Iqsdaq\n\nCheck out my Podcast\nhttps://www.youtube.com/channel/UCBgm0clEVtGjgUKGHbMrqIw/\n\n★☆★Buy some Merch:  alexmeyers.teemill.com\n\n★☆★PLEASE SHARE THIS VIDEO!!\n\n★☆★PREVIOUS VIDEOS:\n\nhttps://www.youtube.com/playlist?list=PL-l4O2M4FfOuwH3TQaFvR-LJV-Sv7yakw\n\nThank you so much for 3,000,000 subscribers.  If you like what you see, please share these videos with your friends to show support!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "304654",
+        "likeCount": "21871",
+        "favoriteCount": "0",
+        "commentCount": "1259"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uOYuLcAtwG2VDnkPA2yR8eLLrcE",
+      "id": "AVDTC4UkBBg",
+      "snippet": {
+        "publishedAt": "2023-03-12T15:54:08Z",
+        "channelId": "UCUU3GdGuQshZFRGnxAPBf_w",
+        "title": "I hit 100 TRICK SHOTS in LEGO...",
+        "description": "I make 100 trick shots and stunts only using Lego...\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, special announcements: https://www.instagram.com/td_the_creator/\n\n📱TIKTOK for short form content: tiktok.com/@td_the_creator\n\n✉️ EMAIL for business inquiries: td.brickz@gmail.com\n\nPodcast where I answer my most frequently asked questions: https://youtu.be/pYF1AyTg2q4\n\nPersonal account: https://www.instagram.com/the_boy_tygo/\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nFire beats from Emix Music: https://www.youtube.com/channel/UCOok...\n\nHow I make my videos\nCamera: Canon EOS R\nMic: RODE VideoMic Go\nEditing Software: Final Cut Pro X",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVDTC4UkBBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVDTC4UkBBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVDTC4UkBBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AVDTC4UkBBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AVDTC4UkBBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TD BRICKS",
+        "tags": [
+          "lego",
+          "legos",
+          "lego set",
+          "lego sets",
+          "lego meme",
+          "lego memes",
+          "lego challenge",
+          "lego trick shots",
+          "trick shots",
+          "dude perfect",
+          "lego dude perfect",
+          "lego moc",
+          "lego mocs",
+          "lego creation",
+          "lego city",
+          "lego star wars",
+          "lego marvel",
+          "lego minifig",
+          "lego minifigure",
+          "lego minifigs",
+          "lego minifigures",
+          "lego funny",
+          "100 lego",
+          "lego list",
+          "lego 100 trick shots",
+          "lego stunts"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I hit 100 TRICK SHOTS in LEGO...",
+          "description": "I make 100 trick shots and stunts only using Lego...\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, special announcements: https://www.instagram.com/td_the_creator/\n\n📱TIKTOK for short form content: tiktok.com/@td_the_creator\n\n✉️ EMAIL for business inquiries: td.brickz@gmail.com\n\nPodcast where I answer my most frequently asked questions: https://youtu.be/pYF1AyTg2q4\n\nPersonal account: https://www.instagram.com/the_boy_tygo/\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nFire beats from Emix Music: https://www.youtube.com/channel/UCOok...\n\nHow I make my videos\nCamera: Canon EOS R\nMic: RODE VideoMic Go\nEditing Software: Final Cut Pro X"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1582153",
+        "likeCount": "38156",
+        "favoriteCount": "0",
+        "commentCount": "2968"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b11K8KbRLoHZHK8wT25KdgxvvI4",
+      "id": "KniAtNC53VQ",
+      "snippet": {
+        "publishedAt": "2023-03-13T01:03:20Z",
+        "channelId": "UCgRQHK8Ttr1j9xCEpCAlgbQ",
+        "title": "Ke Huy Quan Wins Best Supporting Actor 'Everything Everywhere All At Once' at 2023 Academy Awards",
+        "description": "Watch Ke Huy Quan's full acceptance speech at the 2023 Oscars for Best Supporting Actor in Everything Everywhere All At Once.\n\nhttp://bit.ly/VarietySubscribe\r\n\r\nhttp://www.facebook.com/variety\r\nhttp://www.instagram.com/variety\r\nhttp://www.twitter.com/variety",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KniAtNC53VQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KniAtNC53VQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KniAtNC53VQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KniAtNC53VQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KniAtNC53VQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Variety",
+        "tags": [
+          "Variety",
+          "Variety Studio",
+          "oscars 2023",
+          "ke huy quan",
+          "ke huy quan oscar",
+          "eeaao",
+          "acceptance speech",
+          "everything everywhere all at once",
+          "academy awards",
+          "academy awards 2023",
+          "best supporting actor",
+          "ke huy quan full oscars acceptance speech"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ke Huy Quan Wins Best Supporting Actor 'Everything Everywhere All At Once' at 2023 Academy Awards",
+          "description": "Watch Ke Huy Quan's full acceptance speech at the 2023 Oscars for Best Supporting Actor in Everything Everywhere All At Once.\n\nhttp://bit.ly/VarietySubscribe\r\n\r\nhttp://www.facebook.com/variety\r\nhttp://www.instagram.com/variety\r\nhttp://www.twitter.com/variety"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1155292",
+        "likeCount": "34475",
+        "favoriteCount": "0",
+        "commentCount": "1779"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fAHL6Rmrk0Gz3ldCMTlGm3U5ALw",
+      "id": "glb6G_hHack",
+      "snippet": {
+        "publishedAt": "2023-03-13T08:07:52Z",
+        "channelId": "UCiASpmaSOZNhKJayXsxjJGQ",
+        "title": "Harrison Ford Reacts To Ke Huy Quan's Oscar Triumph",
+        "description": "Graeme O'Neil takes a look at Ke Hy Quan reuniting with \"Indiana Jones\" co-star Harrison Ford on stage at the 2023 Academy Awards as Harrison presented \"Everything Everywhere All At Once\" with the Best Picture Oscar.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glb6G_hHack/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glb6G_hHack/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glb6G_hHack/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/glb6G_hHack/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/glb6G_hHack/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Graeme ONeil",
+        "tags": [
+          "reaction",
+          "press room",
+          "talking about",
+          "harrison ford",
+          "ke huy quan",
+          "indiana jones",
+          "reunion",
+          "best supporting actor",
+          "best picture",
+          "hugging",
+          "everything everywhere all at once",
+          "steven spielberg"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Harrison Ford Reacts To Ke Huy Quan's Oscar Triumph",
+          "description": "Graeme O'Neil takes a look at Ke Hy Quan reuniting with \"Indiana Jones\" co-star Harrison Ford on stage at the 2023 Academy Awards as Harrison presented \"Everything Everywhere All At Once\" with the Best Picture Oscar."
+        },
+        "defaultAudioLanguage": "en-CA"
+      },
+      "statistics": {
+        "viewCount": "954656",
+        "likeCount": "13882",
+        "favoriteCount": "0",
+        "commentCount": "981"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oudR6fZ142RCZxRB6bkGmPbb1Ss",
+      "id": "YDwDMF_f5rM",
+      "snippet": {
+        "publishedAt": "2023-03-13T14:16:29Z",
+        "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+        "title": "The Silicon Valley Bank Collapse, Explained | WSJ",
+        "description": "The abrupt collapse of Silicon Valley Bank, the second-biggest bank failure in U.S. history, happened after a run on deposits doomed the tech-focused lender’s plans to raise fresh capital. This prompted regulators to impose emergency measures to stem the fallout.\n\nWSJ’s Rachel Ensign explains how the crisis unfolded and what could happen next. \n\nPhoto: Jeff Chiu/Associated Press\n\n0:00 Silicon Valley Bank collapsed on March 10\n0:30 What led to the Silicon Valley Bank collapse?\n1:53 How the SVB collapse could have broader economic effects\n\n#SiliconValleyBank #SVB #WSJ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YDwDMF_f5rM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YDwDMF_f5rM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YDwDMF_f5rM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YDwDMF_f5rM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YDwDMF_f5rM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wall Street Journal",
+        "tags": [
+          "silicon valley bank",
+          "silicon valley bank crash",
+          "silicon valley bank what happened",
+          "silicon valley bank news",
+          "silicon valley bank collapses",
+          "federal deposit insurance corporation silicon valley bank",
+          "silicon valley bank seized",
+          "silicon valley bank fails",
+          "silicon valley bank collapse explained",
+          "stock market",
+          "bank deposits",
+          "silicon valley bank deposits",
+          "wsj",
+          "bank securities",
+          "svb",
+          "jp morgan",
+          "investors",
+          "loans",
+          "bank loans",
+          "federal reserve",
+          "bonds",
+          "interest rates",
+          "selling bonds",
+          "fed",
+          "mkts"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Silicon Valley Bank Collapse, Explained | WSJ",
+          "description": "The abrupt collapse of Silicon Valley Bank, the second-biggest bank failure in U.S. history, happened after a run on deposits doomed the tech-focused lender’s plans to raise fresh capital. This prompted regulators to impose emergency measures to stem the fallout.\n\nWSJ’s Rachel Ensign explains how the crisis unfolded and what could happen next. \n\nPhoto: Jeff Chiu/Associated Press\n\n0:00 Silicon Valley Bank collapsed on March 10\n0:30 What led to the Silicon Valley Bank collapse?\n1:53 How the SVB collapse could have broader economic effects\n\n#SiliconValleyBank #SVB #WSJ"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "301967",
+        "likeCount": "4584",
+        "favoriteCount": "0",
+        "commentCount": "673"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4aGC_iQAAEwWRSgw9cFoT1qJwCc",
+      "id": "a0Ilm230bf8",
+      "snippet": {
+        "publishedAt": "2023-03-13T11:15:01Z",
+        "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+        "title": "As another bank collapses, US regulators race to prevent spread of crisis I DW News",
+        "description": "Governments are rushing to reassure citizens that their money is safe, after the US saw its biggest banking collapse since the global financial crisis. Silicon Valley Bank's demise was closely followed by that of New York-based Signature Bank. The US insists a repeat of 2008 is not on the cards - but how contagious could the problems be?\n\nUS Secretary of the Treasury Janet L. Yellen, Federal Reserve Board Chair Jerome H. Powell, and FDIC Chairman Martin J. Gruenberg released a joint statement Sunday that they will complete the resolution of the Silicon Valley Bank (SVB) whilst protecting depositors.\n\n\"Depositors will have access to all of their money starting Monday, March 13. No losses associated with the resolution of Silicon Valley Bank will be borne by the taxpayer,\" they said in a joint statement.\n\nThe reason authorities believe the taxpayer will incur no cost is that authorities administrating the bank will be able to use its remaining assets to cover the costs of reimbursing depositors.\n\nThe same will also apply to Signature Bank. On Sunday, the New York State Chartering Authority closed down the cryptocurrency-exposed lender that had lost around a third of its share price value in the second half of the week. \n\nPresident Joe Biden told reporters on Sunday that he would speak at more length on the issue early on Monday.\n\nSubscribe: https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1\n\nFor more news go to: http://www.dw.com/en/\nFollow DW on social media:\n►Facebook: https://www.facebook.com/deutschewellenews/\n►Twitter: https://twitter.com/dwnews\n►Instagram: https://www.instagram.com/dwnews\n►Twitch: https://www.twitch.tv/dwnews_hangout\nFür Videos in deutscher Sprache besuchen Sie: https://www.youtube.com/dwdeutsch\n#US #bankfailure #USregulators",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a0Ilm230bf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a0Ilm230bf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a0Ilm230bf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a0Ilm230bf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a0Ilm230bf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DW News",
+        "tags": [
+          "DW News",
+          "US",
+          "US treasury",
+          "Signature Bank",
+          "Silicon Valley Bank",
+          "Financial crisis",
+          "depositors",
+          "bailout",
+          "tax payers"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "As another bank collapses, US regulators race to prevent spread of crisis I DW News",
+          "description": "Governments are rushing to reassure citizens that their money is safe, after the US saw its biggest banking collapse since the global financial crisis. Silicon Valley Bank's demise was closely followed by that of New York-based Signature Bank. The US insists a repeat of 2008 is not on the cards - but how contagious could the problems be?\n\nUS Secretary of the Treasury Janet L. Yellen, Federal Reserve Board Chair Jerome H. Powell, and FDIC Chairman Martin J. Gruenberg released a joint statement Sunday that they will complete the resolution of the Silicon Valley Bank (SVB) whilst protecting depositors.\n\n\"Depositors will have access to all of their money starting Monday, March 13. No losses associated with the resolution of Silicon Valley Bank will be borne by the taxpayer,\" they said in a joint statement.\n\nThe reason authorities believe the taxpayer will incur no cost is that authorities administrating the bank will be able to use its remaining assets to cover the costs of reimbursing depositors.\n\nThe same will also apply to Signature Bank. On Sunday, the New York State Chartering Authority closed down the cryptocurrency-exposed lender that had lost around a third of its share price value in the second half of the week. \n\nPresident Joe Biden told reporters on Sunday that he would speak at more length on the issue early on Monday.\n\nSubscribe: https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1\n\nFor more news go to: http://www.dw.com/en/\nFollow DW on social media:\n►Facebook: https://www.facebook.com/deutschewellenews/\n►Twitter: https://twitter.com/dwnews\n►Instagram: https://www.instagram.com/dwnews\n►Twitch: https://www.twitch.tv/dwnews_hangout\nFür Videos in deutscher Sprache besuchen Sie: https://www.youtube.com/dwdeutsch\n#US #bankfailure #USregulators"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "826361",
+        "likeCount": "5096",
+        "favoriteCount": "0",
+        "commentCount": "2820"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2opxWBxTYWx_DfqLWrvUf7WMHck",
+      "id": "bY37Ihft4wI",
+      "snippet": {
+        "publishedAt": "2023-03-12T20:07:26Z",
+        "channelId": "UCGTKwjs1ctvgwCRa67RNO-Q",
+        "title": "I've Never Seen Anything Like This California Blizzard Disaster",
+        "description": "If you would like to support us on these missions please ENTER OUR BUCKED UP BRONCO GIVEAWAY and get a free 20x giveaway entries now by clicking here: https://bit.ly/3HVqkXh\n\nFollow our service truck build by subscribing to our Sparks Motors channel! We will be showing the entire build process there! \nhttps://youtube.com/@SparksMotorsCo\n\nThank you to my friend Kip Moore for the acoustic version of his song California\n\nFollow Hunter's channel here: https://www.youtube.com/@HunterGoodrich\n\nHUGE THANK YOU TO THE FOLLOWING PEOPLE AND COMPANIES FOR JUMPING IN TO HELP:\n\n    -     Patriottruckerz, Utah valley \n    ⁃    Four Season out of Highland Utah valley \n    ⁃    Joshua Grading & Excavating out of  Phelan California\n    ⁃    Ralph Smith out of Bountiful Utah\n    ⁃    KC Logistics located in West Valley \n    ⁃     Mr get Muddy out of San Diego \n    ⁃    910 Telicom out of Denver Colorado\n    ⁃    Black sheep skid \n    ⁃    T’s Landscaping out of Clearfield UT  \n    ⁃     Monte and Jeremy out of Saint George \n    ⁃    Pine Rose Cabins in Twin Peaks \n    -    Peterson equipment for the snow cat and snow blower truck \n\n\nYou can win one of my personal vehicles by subscribing to both of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #californiaflooding #californiablizzard",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bY37Ihft4wI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bY37Ihft4wI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bY37Ihft4wI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bY37Ihft4wI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bY37Ihft4wI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HeavyDSparks",
+        "tags": [
+          "gta 5 tow truck roleplay",
+          "towing",
+          "snowrunner",
+          "trailers",
+          "family friendly",
+          "no swearing",
+          "Recovery",
+          "Diesel",
+          "Diesel brothers",
+          "Whistlindiesel",
+          "Cleetus McFarland",
+          "Demolition ranch",
+          "Matt’s Offroad",
+          "Mud",
+          "Adventure",
+          "For you",
+          "Heavydsparks",
+          "Sparks motors",
+          "Freedom bus",
+          "Dirt work",
+          "Tractor",
+          "Dave sparks",
+          "Diesel Dave",
+          "tow truck",
+          "wrecker",
+          "blue collar",
+          "excavator",
+          "dozer",
+          "hellcat",
+          "JEEP",
+          "snowcat",
+          "oshkosh",
+          "auction",
+          "govplanet",
+          "public surplus",
+          "abandoned",
+          "california",
+          "california flooding",
+          "california blizzard",
+          "blizzard",
+          "snow"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I've Never Seen Anything Like This California Blizzard Disaster",
+          "description": "If you would like to support us on these missions please ENTER OUR BUCKED UP BRONCO GIVEAWAY and get a free 20x giveaway entries now by clicking here: https://bit.ly/3HVqkXh\n\nFollow our service truck build by subscribing to our Sparks Motors channel! We will be showing the entire build process there! \nhttps://youtube.com/@SparksMotorsCo\n\nThank you to my friend Kip Moore for the acoustic version of his song California\n\nFollow Hunter's channel here: https://www.youtube.com/@HunterGoodrich\n\nHUGE THANK YOU TO THE FOLLOWING PEOPLE AND COMPANIES FOR JUMPING IN TO HELP:\n\n    -     Patriottruckerz, Utah valley \n    ⁃    Four Season out of Highland Utah valley \n    ⁃    Joshua Grading & Excavating out of  Phelan California\n    ⁃    Ralph Smith out of Bountiful Utah\n    ⁃    KC Logistics located in West Valley \n    ⁃     Mr get Muddy out of San Diego \n    ⁃    910 Telicom out of Denver Colorado\n    ⁃    Black sheep skid \n    ⁃    T’s Landscaping out of Clearfield UT  \n    ⁃     Monte and Jeremy out of Saint George \n    ⁃    Pine Rose Cabins in Twin Peaks \n    -    Peterson equipment for the snow cat and snow blower truck \n\n\nYou can win one of my personal vehicles by subscribing to both of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #californiaflooding #californiablizzard"
+        }
+      },
+      "statistics": {
+        "viewCount": "1367814",
+        "likeCount": "79997",
+        "favoriteCount": "0",
+        "commentCount": "8084"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E-FcCu3BZDVi1FBF72cRwMZgz74",
+      "id": "YNafFhzCT2E",
+      "snippet": {
+        "publishedAt": "2023-03-13T09:46:23Z",
+        "channelId": "UCiASpmaSOZNhKJayXsxjJGQ",
+        "title": "'Goonies' React To Ke Huy Quan's Oscar Win",
+        "description": "Graeme O'Neil takes a look at how the \"Goonies\" cast reacted to Ke Huy Quan's Academy Award win, including Corey Feldman's live reaction, Sean Astin, Jeff B. Cohen, and Martha Plimpton.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YNafFhzCT2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YNafFhzCT2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YNafFhzCT2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YNafFhzCT2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YNafFhzCT2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Graeme ONeil",
+        "tags": [
+          "goonies",
+          "reaction",
+          "oscars",
+          "academy awards",
+          "win",
+          "ke huy quan",
+          "martha plimpton",
+          "live",
+          "instagram",
+          "corey feldman",
+          "josh brolin",
+          "sean astin",
+          "jeff b. cohen"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "'Goonies' React To Ke Huy Quan's Oscar Win",
+          "description": "Graeme O'Neil takes a look at how the \"Goonies\" cast reacted to Ke Huy Quan's Academy Award win, including Corey Feldman's live reaction, Sean Astin, Jeff B. Cohen, and Martha Plimpton."
+        },
+        "defaultAudioLanguage": "en-CA"
+      },
+      "statistics": {
+        "viewCount": "422308",
+        "likeCount": "8772",
+        "favoriteCount": "0",
+        "commentCount": "600"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lUXaC0LXmcdFc34puhiRXYCXpj8",
+      "id": "moLLnJEwjPk",
+      "snippet": {
+        "publishedAt": "2023-03-12T22:00:26Z",
+        "channelId": "UCqg3BHb31w2h77vFuTFmp2w",
+        "title": "Fortnite GUESS WHO vs Typical Gamer!",
+        "description": "✅ BE SURE TO LIKE, SUBSCRIBE, AND TURN ON NOTIFICATIONS!!!\n\n🎥 MY REATCS CHANNEL:  @CouRageReacts  \n🎥 MY LIVESTREAM CHANNEL:  @CouRageJD  \n🎥 SUB TO TG:  @TGplays \n\n👊 Fortnite Creator Code: CouRageJD\n👊 CoD Creator Code: COURAGE\n\n📲 FOLLOW MY OTHER SOCIAL MEDIAS:\n🐦 https://Twitter.com/CouRageJD\n📷 https://Instagram.com/CouRageJD\n📘 https://Facebook.com/CouRageJD\n\nJoin The CouRagous Discord: https://discord.com/invite/CouRageJD\n\n⌨️ Edited by Swpah. Follow him here:\nhttps://twitter.com/Swpah\n\n⌨️ Thumbnail By Xiav. Follow him here:\nhttps://twitter.com/XiavVisuals\n\nI’m officially an investor in Backbone! This will change mobile gaming forever. Check it out here: - https://playbackbone.com/courage/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/moLLnJEwjPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/moLLnJEwjPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/moLLnJEwjPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/moLLnJEwjPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/moLLnJEwjPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "More CouRage",
+        "tags": [
+          "CouRage",
+          "CoD CouRage",
+          "Caster CouRage",
+          "Jack CouRage Dunlop",
+          "Jack Dunlop CouRage",
+          "Funny CouRage Moments",
+          "CouRageJD",
+          "TwitchTV",
+          "Twitch CouRageJD",
+          "Fortnite",
+          "Fortnite Battle Royale",
+          "Funny",
+          "Humor",
+          "Fails",
+          "Gaming",
+          "Streaming",
+          "Fortnite Fails",
+          "Funny Fortnite Game",
+          "Pro Fortnite Player",
+          "Battle Royale",
+          "CouRage Fortnite",
+          "Fortnite Guess Who",
+          "Fortnite Challenge",
+          "CouRage Guess Who",
+          "Fortnite vs Typical Gamer",
+          "CouRage Typical Gamer",
+          "Fortnite Guess Who vs Typical Gamer",
+          "Typical Gamer Guess Who"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fortnite GUESS WHO vs Typical Gamer!",
+          "description": "✅ BE SURE TO LIKE, SUBSCRIBE, AND TURN ON NOTIFICATIONS!!!\n\n🎥 MY REATCS CHANNEL:  @CouRageReacts  \n🎥 MY LIVESTREAM CHANNEL:  @CouRageJD  \n🎥 SUB TO TG:  @TGplays \n\n👊 Fortnite Creator Code: CouRageJD\n👊 CoD Creator Code: COURAGE\n\n📲 FOLLOW MY OTHER SOCIAL MEDIAS:\n🐦 https://Twitter.com/CouRageJD\n📷 https://Instagram.com/CouRageJD\n📘 https://Facebook.com/CouRageJD\n\nJoin The CouRagous Discord: https://discord.com/invite/CouRageJD\n\n⌨️ Edited by Swpah. Follow him here:\nhttps://twitter.com/Swpah\n\n⌨️ Thumbnail By Xiav. Follow him here:\nhttps://twitter.com/XiavVisuals\n\nI’m officially an investor in Backbone! This will change mobile gaming forever. Check it out here: - https://playbackbone.com/courage/"
+        }
+      },
+      "statistics": {
+        "viewCount": "416417",
+        "likeCount": "11070",
+        "favoriteCount": "0",
+        "commentCount": "555"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UfZ6h_jJLlgZxGCO9q7LkUOfVRw",
+      "id": "P3Wg7DSMA8U",
+      "snippet": {
+        "publishedAt": "2023-03-12T20:01:14Z",
+        "channelId": "UCBODyKF0JMbUd6D9Bklyzbw",
+        "title": "Mario Party, but everyone is against me...",
+        "description": "Feel free to subscribe if you'd like to attempt to take me down next!\n➤ STREAM: http://twitch.tv/alpharad\n➤ MERCH: http://pleasebuymymerch.com\n➤ TWITTER: https://twitter.com/alpharad\n➤ INSTAGRAM: https://www.instagram.com/alpharad\n#alpharad #marioparty #challenge\n\nROUGH CUT VIDEO EDITOR:\n➤ Jackson: https://twitter.com/shyntos_\n\nFINAL CUT EDITOR: \n➤ me (raid boss)\n\nTHUMBNAIL ART:\n➤ Koro: http://twitter.com/wingedkoro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P3Wg7DSMA8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P3Wg7DSMA8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P3Wg7DSMA8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P3Wg7DSMA8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P3Wg7DSMA8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alpharad",
+        "tags": ["alpharad"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Mario Party, but everyone is against me...",
+          "description": "Feel free to subscribe if you'd like to attempt to take me down next!\n➤ STREAM: http://twitch.tv/alpharad\n➤ MERCH: http://pleasebuymymerch.com\n➤ TWITTER: https://twitter.com/alpharad\n➤ INSTAGRAM: https://www.instagram.com/alpharad\n#alpharad #marioparty #challenge\n\nROUGH CUT VIDEO EDITOR:\n➤ Jackson: https://twitter.com/shyntos_\n\nFINAL CUT EDITOR: \n➤ me (raid boss)\n\nTHUMBNAIL ART:\n➤ Koro: http://twitter.com/wingedkoro"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "460177",
+        "likeCount": "26531",
+        "favoriteCount": "0",
+        "commentCount": "1094"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tgkkrwa38YZIIW3yYF2KCsWWxjg",
+      "id": "Iw-2M5D3jDQ",
+      "snippet": {
+        "publishedAt": "2023-03-12T23:53:45Z",
+        "channelId": "UCR4wTAyVbbX-IiBiGCgIBTg",
+        "title": "Kelly, Ryan, and Mark Make an Announcement on the Oscars Carpet",
+        "description": "Kelly Ripa, Ryan Seacrest, and Mark Consuelos hit the champagne carpet and talk about Mark joining Kelly as cohost on April 17.\n\nSubscribe: https://bit.ly/2HFUeAK\n\nWebsite: https://kellyandryan.com/\n\nFacebook: https://www.facebook.com/LiveKellyandRyan/\nInstagram: https://www.instagram.com/livekellyandryan/\nTwitter: https://twitter.com/LiveKellyRyan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iw-2M5D3jDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iw-2M5D3jDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iw-2M5D3jDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iw-2M5D3jDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iw-2M5D3jDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIVEKellyandRyan",
+        "tags": [
+          "Kelly and Ryan",
+          "LIVE with Kelly and Ryan",
+          "kelly ripa",
+          "ryan seacrest"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kelly, Ryan, and Mark Make an Announcement on the Oscars Carpet",
+          "description": "Kelly Ripa, Ryan Seacrest, and Mark Consuelos hit the champagne carpet and talk about Mark joining Kelly as cohost on April 17.\n\nSubscribe: https://bit.ly/2HFUeAK\n\nWebsite: https://kellyandryan.com/\n\nFacebook: https://www.facebook.com/LiveKellyandRyan/\nInstagram: https://www.instagram.com/livekellyandryan/\nTwitter: https://twitter.com/LiveKellyRyan"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "372413",
+        "likeCount": "662",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QwisPF6SMmXiLc_8BZUNB7zHazw",
+      "id": "KGW-x5yhLVU",
+      "snippet": {
+        "publishedAt": "2023-03-12T17:00:10Z",
+        "channelId": "UCCqZ18V6706J1NJOIDCVgAQ",
+        "title": "Tape up 4 Dollar Store mats (BRILLIANT!)",
+        "description": "Hometalk | Ideas you can do. \nGet our daily email for endless DIY ideas: https://ht.hmtlk.com/l/4VfU\n\n\nFACEBOOK  →  https://www.facebook.com/Hometalk\nINSTAGRAM  → https://www.instagram.com/hometalk\nPINTEREST  →  https://www.pinterest.com/hometalk\nTIKTOK  → https://vm.tiktok.com/ne4T87",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KGW-x5yhLVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KGW-x5yhLVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KGW-x5yhLVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KGW-x5yhLVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KGW-x5yhLVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hometalk",
+        "tags": [
+          "hometalk",
+          "how to",
+          "do it yourself",
+          "diy",
+          "home",
+          "garden",
+          "tutorial",
+          "instructions",
+          "craft",
+          "decor"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Tape up 4 Dollar Store mats (BRILLIANT!)",
+          "description": "Hometalk | Ideas you can do. \nGet our daily email for endless DIY ideas: https://ht.hmtlk.com/l/4VfU\n\n\nFACEBOOK  →  https://www.facebook.com/Hometalk\nINSTAGRAM  → https://www.instagram.com/hometalk\nPINTEREST  →  https://www.pinterest.com/hometalk\nTIKTOK  → https://vm.tiktok.com/ne4T87"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "858316",
+        "favoriteCount": "0",
+        "commentCount": "131"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
