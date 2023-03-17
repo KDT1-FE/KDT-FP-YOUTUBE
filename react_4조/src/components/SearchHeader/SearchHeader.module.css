@@ -1,0 +1,257 @@
+.header {
+  transition: 0.3s ease;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  height: 4rem;
+  background-color: var(--color-bg-main);
+  line-height: 2rem;
+  font-size: 1.5rem;
+  color: var(--color-font);
+  padding: 0.5rem 2.5rem;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10;
+}
+
+.toggle{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  cursor: pointer;
+}
+
+.a {
+  box-sizing: content-box;
+  display: flex;
+  width: 6rem;
+  text-decoration: none;
+  margin-top: 0.25rem;
+  margin-left: 1.5rem;
+}
+
+.logo {
+  width: 6rem;
+  height: 1.4rem;
+  padding: 0.5rem 0.5rem;
+}
+
+.formContainer{
+  position: relative;
+  flex-basis: 40%;
+  margin-top: 2px;
+}
+
+form {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  margin-top: 2px;
+}
+
+
+.input {
+  transition: 0.3s ease;
+  box-sizing: border-box;
+  height: 2.5rem;
+  font-size: 1rem;
+  flex-grow: 4.5;
+  outline: none;
+  outline-color: gray;
+  background-color: var(--color-bg-main);
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border: 1px solid var(--color-main-border);
+  text-indent: 1.25rem;
+  color: var(--color-main-input);
+}
+
+.input::placeholder {
+  font-size: 1rem;
+}
+
+.input:focus{
+  border-color :  rgb(28, 98, 185);
+}
+
+.button {
+  transform: 0.3s ease;
+  box-sizing: border-box;
+  width: 3.25rem;
+  height: 2.5rem;
+  background-color: var(--color-bg-main-hover);
+  padding: 0.25rem;
+  outline: none;
+  border: 1px solid var(--color-main-border);
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  flex-grow: 0.3;
+  color : var(--color-font)
+}
+
+.mic{
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.mic:hover{
+  background-color: var(--color-bg-main2-hover);
+}
+
+
+.iconContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2px;
+}
+
+.buttonImg {
+  width: 1rem;
+  height: 1rem;
+}
+
+.profileImg{
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.profileImg > img{
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  flex-grow: 1;
+}
+
+
+.videoImg{
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.bellImg{
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1.5rem;
+
+}
+
+.iconContainer .videoimg{
+  transform: translateX(5%);
+}
+
+.videoImg:hover{
+  background-color: var(--color-bg-main-hover);
+}
+
+.bellImg:hover{
+  background-color: var(--color-bg-main-hover);
+}
+.bellImg{
+  flex-grow: 1;
+}
+
+
+/* dark mode 관련 */
+.modeChange{
+  width: 40px;
+  height: 40px;
+  outline: none;
+  border: none;
+  border-radius: 50%;
+  background-color: var(--color-bg-main);
+  color: var(--color-font);
+  padding-top: 4px;
+  margin-right: 10px;
+}
+
+.modeChange:hover{
+  background-color: var(--color-bg-main-hover);
+}
+
+
+@media (min-width : 768px) {
+  .formContainer{
+    width: 20rem;
+  }
+  
+  .responsiveBtn{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    display: none;
+    padding-bottom: 5px;
+  }
+  #portal{
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .formContainer{
+    display: flex;
+    position: relative;
+    flex-direction: row-reverse;
+    margin-left: 1.75rem;
+  }
+
+  .responsiveBtn{
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0.25rem;
+    padding-right: 1.5rem;
+    margin-right: 0.5rem;
+  }
+
+  .responsiveBtnImg{
+    transform: translate(75%, 10%);
+  }
+  .responsiveBtn:hover{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: var(--color-bg-main-hover);
+  }
+
+  .input{
+    display: none;
+  }
+  .mic{
+    display: none;
+  }
+  .button{
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .mic{
+    display: none;
+  }
+
+  .bellImg{
+    display: none;
+  }
+}
